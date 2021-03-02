@@ -3,6 +3,8 @@ MyRunnerApp
 
 An andoid app that allows you to measure steps, distance, speed and time while running or walking.
 
+Screenshots:
+
 ![obraz](https://user-images.githubusercontent.com/65543990/109651697-28b51e00-7b5f-11eb-8895-91e3c6a430e0.png) ![obraz](https://user-images.githubusercontent.com/65543990/109651877-5a2de980-7b5f-11eb-9317-a12c075ad7bf.png)
 
 
