@@ -4,6 +4,9 @@ MyCalculator
 An andoid application which performs the functions of a basic calculator.
 
 
+Screenshots:
+
+
 ![obraz](https://user-images.githubusercontent.com/65543990/109649973-e12d9280-7b5c-11eb-868e-0fd73ef84aed.png)
 
 
